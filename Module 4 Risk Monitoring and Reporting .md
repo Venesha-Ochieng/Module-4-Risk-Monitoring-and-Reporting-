@@ -22,6 +22,7 @@ Each rate = numerator ÷ denominator (shown to 1 decimal place), classified on u
 | Overdue high-risk actions | 10.0% | 25.0% | 40.0% |
 | Unauthorised changes (count) | 1 | 3 | 5 |
 
+![Task 1](Task%201.png)
 
 Counts (unauthorised changes 1, 3, 5) are charted separately in the spreadsheet so percentages and counts are not mixed. Live formulas are in the workbook.
 
@@ -110,6 +111,8 @@ They rose as coverage fell; correlation is not proof of cause.
 | Restore success | 100.0% | 90.0% | 80.0% |
 | Overdue high-risk actions | 10.0% | 25.0% | 40.0% |
 | Unauthorised changes (count) | 1 | 3 | 5 |
+
+![Task 5](Task%205.png)
 
 Unauthorised changes are counts and are not plotted on the percentage chart. Statuses use unrounded values against classroom thresholds.
 
